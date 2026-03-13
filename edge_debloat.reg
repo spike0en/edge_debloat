@@ -1,6 +1,6 @@
 Windows Registry Editor Version 5.00
 ; Author: Spike (spike0en)
-; Date: 2026-03-09
+; Version: 145.0.3800.97
 
 [-HKEY_CURRENT_USER\SOFTWARE\Policies\Microsoft\Edge]
 [-HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Edge]
